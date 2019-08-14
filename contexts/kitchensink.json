@@ -1,5 +1,4 @@
 {
-  "kitchensink.json": {
     "name": "Foo",
     "request": {
       "method": "POST",
@@ -11,5 +10,4 @@
     },
     "content": "the content",
     "description": "the description"
-  }
 }
